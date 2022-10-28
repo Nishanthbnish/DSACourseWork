@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Recursion/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Backtracking/Backtracking.iml" filepath="$PROJECT_DIR$/Recursion/Backtracking/Backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary_Search/Binary_Search.iml" filepath="$PROJECT_DIR$/Binary_Search/Binary_Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary_Trees/Binary_Trees.iml" filepath="$PROJECT_DIR$/Binary_Trees/Binary_Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary_Search/Binary_search_2_dimention/Binary_search_2_dimention.iml" filepath="$PROJECT_DIR$/Binary_Search/Binary_search_2_dimention/Binary_search_2_dimention.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bitwise_Operator/Bitwise_Operator.iml" filepath="$PROJECT_DIR$/Bitwise_Operator/Bitwise_Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Hashing/Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Introduction/Introduction.iml" filepath="$PROJECT_DIR$/OOP/Introduction/Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear_Search/Linear_Search.iml" filepath="$PROJECT_DIR$/Linear_Search/Linear_Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PSS_Array.iml" filepath="$PROJECT_DIR$/PSS_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Practice Question/Practice Question.iml" filepath="$PROJECT_DIR$/Sorting/Practice Question/Practice Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String_StringBuilders/PracticeQuestions/PracticeQuestions.iml" filepath="$PROJECT_DIR$/String_StringBuilders/PracticeQuestions/PracticeQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bitwise_Operator/Practice_Question/Practice_Question.iml" filepath="$PROJECT_DIR$/Bitwise_Operator/Practice_Question/Practice_Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary_Search/Practice_Questions/Practice_Questions.iml" filepath="$PROJECT_DIR$/Binary_Search/Practice_Questions/Practice_Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack and Queue/Stack and Queue.iml" filepath="$PROJECT_DIR$/Stack and Queue/Stack and Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String_StringBuilders/String_StringBuilders.iml" filepath="$PROJECT_DIR$/String_StringBuilders/String_StringBuilders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Strings/Strings.iml" filepath="$PROJECT_DIR$/Recursion/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/patterns/patterns.iml" filepath="$PROJECT_DIR$/Recursion/patterns/patterns.iml" />
+    </modules>
+  </component>
+</project>
